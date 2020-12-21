@@ -1,7 +1,7 @@
 <h1 align="center">Tinypinyin</h1></br>
 
 <p align="center">
-Sample app for Tinyping, a Chinese character to pinyin library
+Sample app for Tinypin, a Chinese character to pinyin library
 </p>
 <br>
 
